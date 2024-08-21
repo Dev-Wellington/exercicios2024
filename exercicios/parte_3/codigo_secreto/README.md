@@ -21,5 +21,5 @@
 ![alt text](img/image-6.png)
 
 <p>Mostro o resultado.</p>
-
+<p>Porém eu percebi que diferete do exemplo quando eu digito 1 e 10 me retorna o valor 3 ao inves de 2 porem fazendo as contas no papel eu percebi que 1 a 10 , tenho os multiplos de 3 (3,6,9), os multiplos de 5 (5,10) e não existe um numero multiplo de 3 e 5 de 1 a 10. Então não consegui entender o porque da resposta do programa do professor ter dado 2 ao inves de 3 </p>
 ![alt text](img/image-5.png)
