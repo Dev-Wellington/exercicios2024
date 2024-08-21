@@ -11,3 +11,5 @@ fibo = [inicio[i] for i in range(n)]
 print(f"Os primeiros {n} números da sequência de Fibonacci são: {fibo}")
 
 #print(f"Os primeiros {n} números da sequência de Fibonacci são: {inicio[:n]}")
+
+
