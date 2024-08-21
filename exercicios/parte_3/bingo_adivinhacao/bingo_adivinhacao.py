@@ -25,4 +25,22 @@ while True:
         print(f'Parabéns ! , você completou em {sorteios} sorteios.')
         break
 
+#forma do jogador escolher o numero
+'''
+while True:
+    numero = int(input('Digite um numero'))
+
+    if numero in cartela:
+        print(f'O número sorteado foi: {numero} e você acertou !!!')
+        while numero in cartela:
+            cartela.remove(numero)
+    else:
+        print(f'O número sorteado foi: {numero}')
+
+    sorteios +=1
+
+    if not cartela:
+        print(f'Parabéns ! , você completou em {sorteios} sorteios.')
+        break
+'''
 
